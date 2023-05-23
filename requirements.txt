@@ -1,7 +1,7 @@
 matplotlib==3.2.1
 numpy==1.18.4
 pandas==1.0.4
-Pillow==7.1.2
+Pillow==9.3.0
 scikit-learn==0.23.1
 scipy==1.4.1
 tk==0.1.0
